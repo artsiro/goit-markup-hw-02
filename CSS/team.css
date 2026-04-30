@@ -1,5 +1,29 @@
-#team h2{background-color: whitesmoke;}
-#team h3{background-color: whitesmoke;}
-#team p{background-color: whitesmoke;}
-#team image{background-color: whitesmoke;}
-#team li{background-color: whitesmoke;}
+.team-title{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.1;
+text-align: center;
+color: #2E2F42;
+background-color: #F4F4FD;
+
+}
+.team-info h3{
+    font-weight: 500;
+    font-size: 20;
+    line-height: 1.2;
+    text-align: center;
+    color: #2E2F42;
+    background-color: #F4F4FD;
+}
+.team-info p{
+    font-size: 16;
+    line-height: 1.5;
+    text-align: center;
+    color: #434455;
+    background-color: #F4F4FD;
+
+}
+.team-info img{
+    align-items: center;
+    background-color: #F4F4FD;
+}

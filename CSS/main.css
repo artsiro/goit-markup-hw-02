@@ -1,3 +1,7 @@
-button{color: #4D5AE5;}
-button:hover{color: #404BBF;}
-button:focus{color: #404BBF;}
+@import url(./common.css);
+@import url(./header.css);
+@import url(./hero.css);
+@import url(./features.css);
+@import url(./team.css);
+@import url(./portfolio.css);
+@import url(./footer.css);
