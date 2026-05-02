@@ -1,0 +1,10 @@
+ul,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+body{
+    color: #FFFFFF;
+}

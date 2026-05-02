@@ -1,0 +1,26 @@
+.hero-button{
+    background-color: #4D5AE5;
+    width: 169px;
+    height: 56px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.hero-button:hover,
+.hero-button:focus{
+    background-color: #404BBF;
+    width: 169px;
+    height: 56px;
+    color: #FFFFFF;
+}
+.hero-title{
+    color: #FFFFFF;
+    width: 496x;
+    height: 120px;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+}
+#hero{
+    background-color: #2E2F42;
+}
