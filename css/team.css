@@ -4,7 +4,6 @@ font-size: 36px;
 line-height: 1.1;
 text-align: center;
 color: #2E2F42;
-background-color: #ffff;
 letter-spacing: 0.02em;
 
 }
@@ -14,7 +13,6 @@ letter-spacing: 0.02em;
     line-height: 1.2;
     text-align: center;
     color: #2E2F42;
-    background-color: #ffff;
     letter-spacing: 0.02em;
 }
 .team-info p{
@@ -22,10 +20,12 @@ letter-spacing: 0.02em;
     line-height: 1.5;
     text-align: center;
     color: #434455;
-    background-color: #ffff;
     letter-spacing: 0.02em;
 
 }
 .team-section{
     background-color: #f4f4fd;
+}
+.team-info li{
+    background-color: #ffff;
 }
