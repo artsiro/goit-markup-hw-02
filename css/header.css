@@ -5,6 +5,8 @@
     font-size: 18px;
     line-height: 1.3;
     text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
     }
 
 .header-nav .link{
@@ -13,6 +15,7 @@
     line-height: 1.5;
     color: #2E2F42;
     text-decoration: none;
+    letter-spacing: 0.02em;
 }
 
 .header-contact .link{
@@ -20,6 +23,8 @@
     line-height: 1.5;
     color: #434455;
     text-decoration: none;
+    letter-spacing: 0.02em;
+    font-style: normal;
 }
 .header-contact .link:hover,
 .header-contact .link:focus{
